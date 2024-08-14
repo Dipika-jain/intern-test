@@ -1,0 +1,47 @@
+{
+  "mentors": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "roles": ["FMCG Sales", "E-Commerce"],
+      "schedule": [
+        {
+          "date": "2024-08-15",
+          "timeSlot": "7:00 PM - 7:30 PM"
+        },
+        {
+          "date": "2024-08-15",
+          "timeSlot": "8:00 PM - 8:30 PM"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "roles": ["Equity Research", "Digital Marketing"],
+      "schedule": []
+    },
+    {
+      "id": 3,
+      "name": "Sam Wilson",
+      "roles": ["FMCG Sales", "Equity Research"],
+      "schedule": [
+        {
+          "date": "2024-08-15",
+          "timeSlot": "7:30 PM - 8:00 PM"
+        }
+      ]
+    }
+  ],
+  "areasOfInterest": [
+    "FMCG Sales", "E-Commerce", "Digital Marketing", "Equity Research", "Investment Banking",
+    "Private Equity", "Consulting", "Strategy", "Operations Management", "Supply Chain",
+    "Human Resources", "Finance", "Accounting", "Business Development", "Product Management",
+    "Project Management", "Market Research", "Sales Management", "Retail Management", "Healthcare Management",
+    "Logistics", "Real Estate", "Entrepreneurship", "Technology Management", "International Business",
+    "Legal Studies", "Energy Management", "Tourism Management", "Education Management", "Sports Management",
+    "Telecom Management", "Hospitality Management", "Manufacturing Management", "Agribusiness", "Public Policy",
+    "Nonprofit Management", "Media Management", "Advertising", "Public Relations", "Event Management",
+    "Investment Management", "Risk Management", "Business Analytics", "Corporate Governance"
+  ]
+}
